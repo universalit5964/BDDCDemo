@@ -48,7 +48,7 @@ public class PostSteps {
 
     @Then("the video should have proper thumbnail")
     public void the_video_should_have_proper_thumbnail() {
-        System.out.println("the_video_should_have_proper_thumbnail");
+        System.out.println("user is having proper thumbnail");
     }
     @When("User supply the youtube link as {string} in the text box")
     public void user_supply_the_youtube_link_as_in_the_text_box(String url) throws Throwable {
