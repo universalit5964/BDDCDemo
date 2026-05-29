@@ -33,7 +33,8 @@ public class PostSteps {
     @And("should be present on his own wall")
     public void shouldBePresentOnHisOwnWall(){
         System.out.println("shouldBePresentOnHisOwnWall");
-
+        System.out.println("Rebase update text");
+        
     }
 
     @When("User supply the youtube link in the text box")
