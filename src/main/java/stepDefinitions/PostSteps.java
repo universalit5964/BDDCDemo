@@ -10,7 +10,7 @@ import static org.junit.Assert.assertTrue;
 public class PostSteps {
     @Given("User should be logged in and should be present at its own wall")
     public void user_should_be_logged_in_and_should_be_present_at_its_own_wall() {
-        System.out.println("User should be logged in successfully");
+        System.outt.println("User should be logged in successfully");
     }
     @When("I type the message in the text box")
     public void i_type_the_message_in_the_text_box() {
